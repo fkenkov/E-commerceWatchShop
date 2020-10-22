@@ -1,6 +1,6 @@
-<h1>
+<h3>
   <b>Project for E-Commerce Subject at Faculty of Computer Science and Engineering, Skopje</b>
-</h1></br>
+</h3></br>
 
 
 <h4>What does this project contain:</h4>
