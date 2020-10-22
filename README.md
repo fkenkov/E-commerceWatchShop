@@ -1,4 +1,4 @@
-<b>Project for E-Commerce Subject at Faculty of Computer Science and Engineering, Skopje</b></br>
+<h1><b>Project for E-Commerce Subject at Faculty of Computer Science and Engineering, Skopje</b></h1></br>
 
 <i><b>Professor</b></i>: Dimitar Trajanov</br>
 <i><b>Assistant</b></i>: Jovan Davchev
