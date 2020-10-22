@@ -2,7 +2,7 @@
 
 <i><b>Professor</b></i>: Dimitar Trajanov</br>
 <i><b>Assistant</b></i>: Jovan Davchev
-<h5>What does this project contain:</h5>
+<h4>What does this project contain:</h4>
 <ul> 
   <li>Full online shop for watches</li>
   <li>Option for payment</li>
