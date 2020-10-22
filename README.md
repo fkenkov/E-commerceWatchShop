@@ -6,7 +6,7 @@
 
 <h2>Technologies:</h2>
 <ul>
-  Back-End
+  <ul>Back-End</ul>
   <ul>
   <li>SpringBoot</li>
   </ul>
