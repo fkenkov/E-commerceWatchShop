@@ -1,6 +1,4 @@
 <h1>
-  <h5><i><b>Professor</b></i>: Dimitar Trajanov</h5></br>
-  <h5><i><b>Assistant</b></i>: Jovan Davchev</h5>
   <b>Project for E-Commerce Subject at Faculty of Computer Science and Engineering, Skopje</b>
 </h1></br>
 
