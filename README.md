@@ -13,4 +13,6 @@
   <ul>
   <li>Thymeleaf</li>
   </ul>
+  
+  <h6>Filip Kenkov © All rights Reserved, Copyright 2020</h6>
 
