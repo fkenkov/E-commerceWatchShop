@@ -2,9 +2,9 @@
 
 <i><b>Professor</b></i>: Dimitar Trajanov</br>
 <i><b>Assistant</b></i>: Jovan Davchev
-<p>What does this project contain</p>
+What does this project contain
 <ul> 
-  <li>Full online shop for atches</li>
+  <li>Full online shop for watches</li>
   <li>Option for payment</li>
   <li>Option for Sign-Up</li>
   </ul>
