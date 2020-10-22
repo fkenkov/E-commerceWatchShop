@@ -14,5 +14,5 @@
   <li>Thymeleaf</li>
   </ul>
   
-  <h6>© 2020 Filip Kenkov. All Rights Reserved</h6>
+  <h6>© 2020 Filip Kenkov. All rights reserved</h6>
 
