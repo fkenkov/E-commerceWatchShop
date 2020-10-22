@@ -4,7 +4,7 @@
 <b><i>Professor</i></b>: Dimitar Trajanov</br>
 <b><i>Assistant</i></b>: Jovan Davchev
 
-<h2>Technologie:</h2>
+<h2>Technologies</h2>
   <b>Back-End</b>
   <ul>
   <li>SpringBoot</li>
