@@ -5,11 +5,9 @@
 <b><i>Assistant</i></b>: Jovan Davchev
 
 <h2>Technologies:</h2>
-<ul>
-  <ul>Back-End</ul>
+  Back-End
   <ul>
   <li>SpringBoot</li>
   </ul>
   <li></li>
   <li></li>
-</ul>
