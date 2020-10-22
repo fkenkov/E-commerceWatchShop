@@ -4,9 +4,12 @@
 <b><i>Professor</i></b>: Dimitar Trajanov</br>
 <b><i>Assistant</i></b>: Jovan Davchev
 
-<h4>What does this project contain:</h4>
-<ul> 
-  <li>Full online shop for watches</li>
-  <li>Option for payment</li>
-  <li>Option for Sign-Up</li>
-  </ul>
+<h2>Technologies:</h2>
+<ol>
+  Back-End
+  <ol>
+  <li>SpringBoot</li>
+  </ol>
+  <li></li>
+  <li></li>
+</ol>
