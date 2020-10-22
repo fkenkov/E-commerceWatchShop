@@ -13,6 +13,15 @@
   <ul>
   <li>Thymeleaf</li>
   </ul>
+  <h2>Other Technologies</h2>
+  <b>Authentication and Authorization</b>
+  <ul>
+  Spring Security
+  </ul>
+  <b>Payment Method</b>
+  <ul>
+  Stripe API
+  </ul>
   
   <h6>© 2020 Filip Kenkov. All rights reserved</h6>
 
