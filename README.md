@@ -7,9 +7,9 @@
 <h2>Technologies:</h2>
 <ol>
   Back-End
-  <ol>
+  <ul>
   <li>SpringBoot</li>
-  </ol>
+  </ul>
   <li></li>
   <li></li>
 </ol>
