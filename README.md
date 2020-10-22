@@ -16,11 +16,11 @@
   <h2>Other Technologies</h2>
   <b>Authentication and Authorization</b>
   <ul>
-  Spring Security
+  <li>Spring Security</li>
   </ul>
   <b>Payment Method</b>
   <ul>
-  Stripe API
+  <li>Stripe API</li>
   </ul>
   
   <h6>© 2020 Filip Kenkov. All rights reserved</h6>
